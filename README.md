@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🎓 I’m currently doing my the Multimedia Technology masters at the University of Applied Sciences in Salzburg, Austria.
+
 - 🔭 I’m currently working at *Porsche Informatik*, working with Spring and Angular
 
 - 🌱 I’m always experimenting & scripting. Checkout my [dot-files](https://gitlab.com/FabianUntermoser/dot-files).
@@ -8,7 +10,8 @@
 
 - 👯 I’m looking for mentorship. HMU
 
-- 📫 Reach out on [Twitter @ederbit](https://twitter.com/ederbit)
+- 📫 You can [reach out to me here](https://ederbit.xyz/#get-in-touch-)
+
 
 <!--
 **FabianUntermoser/FabianUntermoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
