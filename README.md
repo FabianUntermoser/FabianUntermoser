@@ -10,8 +10,7 @@
 
 - 👯 I’m looking for mentorship. HMU
 
-- 📫 You can [reach out to me here](https://ederbit.xyz/#get-in-touch-)
-
+- 📫 You can [reach out to me here](https://ederbit.xyz/#get-in-touch-) or on [Twitter @ederbit](https://twitter.com/ederbit)
 
 <!--
 **FabianUntermoser/FabianUntermoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
