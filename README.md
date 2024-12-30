@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Freelance Full-Stack Software Engineer. Contact at <a href="mailto:mail@ederbit.xyz">mail@ederbit.xyz</a> or reach out [here 📫](https://www.ederbit.xyz/contact/)
+⚡ Freelance Full-Stack Software Engineer. Contact at <a href="mailto:mail@ederbit.xyz">fabian@ederbit.xyz</a> or reach out [here 📫](https://www.ederbit.xyz/contact/)
 
 🎓 MSc for Multimedia Technology at the University of Applied Sciences in Salzburg, Austria.
 
