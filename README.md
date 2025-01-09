@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-⚡ Freelance Full-Stack Software Engineer. Contact at <a href="mailto:mail@ederbit.xyz">fabian@ederbit.xyz</a> or reach out [here 📫](https://www.ederbit.xyz/contact/)
+⚡ Freelance Full-Stack Software Engineer based in Austria.
 
-🎓 MSc for Multimedia Technology at the University of Applied Sciences in Salzburg, Austria.
+💬 Get in touch at <a href="mailto:hello@fabianuntermoser.com">hello@fabianuntermoser.com</a> or see my [🌎 Website](https://fabianuntermoser.com/).
 
-📝 Public notes about Dev stuff, Second Brain, PKM in Obsidian at [ederbit.xyz](https://www.ederbit.xyz/)
+🎓 MSc of Multimedia Technology at the University of Applied Sciences in Salzburg, Austria.
 
-🛠️ I Enjoy scripting & ricing. Checkout my [dot-files](https://gitlab.com/FabianUntermoser/dot-files).
+📝 I write digital notes at [ederbit.xyz](https://www.ederbit.xyz/).
 
+🛠️ I enjoy scripting & ricing. Checkout my [dot-files](https://gitlab.com/FabianUntermoser/dot-files).
 
 <!--
 
