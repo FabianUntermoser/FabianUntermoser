@@ -13,6 +13,7 @@
 ![Coffee](badges/coffee.svg)
 
 ---
+## Technology
 ### Code & Build
 ![HTML](badges/html.svg)
 ![CSS](badges/css.svg)
