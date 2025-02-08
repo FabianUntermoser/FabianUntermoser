@@ -10,6 +10,8 @@
 
 🛠️  I enjoy scripting & ricing. Checkout my [dot-files](https://gitlab.com/FabianUntermoser/dot-files).
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianUntermoser&show_icons=true)](https://github.com/FabianUntermoser)
+
 ![Coffee](badges/coffee.svg)
 
 ---
