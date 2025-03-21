@@ -6,7 +6,7 @@
 
 🎓 MSc of Multimedia Technology at the University of Applied Sciences in Salzburg, Austria.
 
-📝 I write digital notes at [ederbit.xyz](https://www.ederbit.xyz/).
+📝 I write digital notes at [fabianuntermoser.com](https://www.fabianuntermoser.com/).
 
 🛠️  I enjoy scripting & ricing. Checkout my [dot-files](https://gitlab.com/FabianUntermoser/dot-files).
 
