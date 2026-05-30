@@ -2,7 +2,7 @@
 
 ⚡ Freelance Full-Stack Software Engineer based in Austria.
 
-💬 Get in touch at <a href="mailto:hello@fabianuntermoser.com">hello@fabianuntermoser.com</a> or see my [🌎 Website](https://fabianuntermoser.com/).
+💬 Get in touch at <a href="mailto:hello@fabianuntermoser.com">hello@fabianuntermoser.com</a>.
 
 🎓 MSc of Multimedia Technology at the University of Applied Sciences in Salzburg, Austria.
 
